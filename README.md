@@ -57,32 +57,7 @@ Built in alignment with the **United Nations SDG 11 — Sustainable Cities & Com
 - **Vanilla JavaScript** — DOM manipulation, local state, interactivity
 - **No frameworks, no dependencies** — runs entirely in the browser
 ---
- 
-## 🚀 Getting Started
- 
-No installation needed. Just open the file in your browser:
- 
-```bash
-# Clone the repository
-git clone https://github.com/Vanyamohammad2023/civicnature.git
- 
-# Open in browser
-open index.html
-```
- 
-Or visit the live version: [extraordinary-bublanina-36b200.netlify.app](https://extraordinary-bublanina-36b200.netlify.app/)
- 
----
- 
-## 📁 Project Structure
- 
-```
-civicnature/
-│
-└── index.html        # Complete single-file application (HTML + CSS + JS)
-```
- 
----
+
  
 ## 🌍 Context
  
