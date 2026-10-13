@@ -63,7 +63,7 @@ Built in alignment with the **United Nations SDG 11 — Sustainable Cities & Com
  
 Sulaymaniyah, Southern Kurdistan, faces ongoing urban challenges — potholes, lighting failures, drainage issues, illegal dumping — alongside environmental threats to rare highland species like the Wild Tulip and Eastern Imperial Eagle.
  
-CivicNature was built to give residents a structured, transparent channel to document these problems and hold authorities accountable — no account needed, no barriers.
+CivicNature was built to give residents a structured, transparent channel to document these problems and hold authorities accountable.
  
  
 *CivicNature © 2024 · SDG 11 Web Application*
